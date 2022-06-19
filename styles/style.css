@@ -133,6 +133,10 @@ header {
     display: none;
 }
 
+.bg img {
+    display: none;
+}
+
 
 /* STARTER */
 .starter {
@@ -463,6 +467,7 @@ footer {
 
     .bg img {
         width: 100%;
+        display: block;
     }
 
     /* STARTER */
